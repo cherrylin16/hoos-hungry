@@ -6,6 +6,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: white;
+  padding: 20px;
 }
 
 
@@ -22,6 +23,8 @@ th {
   gap: 24px;
   justify-items: center;
   margin-top: 50px;
+  margin-right: 10px;
+  margin-bottom: 30px;
 }
 
 .Card {

@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>Hoos Hungry?</h1>
-      <h4>Welcome to Cherry's Charlottesville food diary! Discover my favorite local food options as a getaway from UVA's dining halls!</h4>
+      <h4>Welcome to Cherry's Charlottesville food diary! Discover my favorite local and UVA Dine food options as a getaway from UVA's dining halls!</h4>
 
       <div className="card-grid">
         <Card card='Monsoon Siam' location=' 113 W Market St' color='blue' buttonLink='https://www.monsoonsiamcville.com/' image="/images/monsoon.jpg"/>
