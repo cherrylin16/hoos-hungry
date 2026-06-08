@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://i.imgur.com/7eGuE5y.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://i.imgur.com/7eGuE5y.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
